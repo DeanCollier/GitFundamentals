@@ -11,5 +11,4 @@ It can be done with the `git clone` command as seen here:
  - [Git Clone Documentation](https://git-scm.com/docs/git-clone)
  
  ---
- [Back to home](../README.md).
- 
+ [Back to home](../README.md)

@@ -16,12 +16,12 @@ This means you can tell the branch to push to its assigned upstream remote branc
 Before doing so, you'll need to use the ` -u` or ` --set-upstream` flag.  This can be done on any `git push`.
 ```git push -u origin main
 ```
- After this command is used, you can just use the `git push` and it will function the same way.
+After this command is used, you can just use the `git push` and it will function the same way.
 
- ## Resources
- - [Git Push Documentation](https://git-scm.com/docs/git-push)
- ---
- [Back to home](../README.md)
+## Resources
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
+---
+[Back to home](../README.md)
  
 
 

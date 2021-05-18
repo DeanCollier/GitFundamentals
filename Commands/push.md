@@ -7,7 +7,7 @@ You can attach a name and branch name to your command to specify where you're pu
 ```
 git push origin main
 ``` 
-This command will push the **main** branch to the remote called **origin**.  This means any commits taht are in your local will be **pushed** to the remote.
+This command will push the **main** branch to the remote called **origin**.  This means any commits that are in your local will be **pushed** to the remote.
 
 ### Upstream Tracking
 Instead of including the name of the remote and the branch you're on everytime, you can set local branches to track an upstream branch.
